@@ -58,10 +58,8 @@ pushd ~/GoogleDrive/__docs/_sidepj/istage/api/db &amp;&amp; source ./tool.sh &am
 <h4 id="run-dev-server">Run Dev Server</h4>
 <pre class=" language-sh"><code class="prism  language-sh"># api
 pushd ~/GoogleDrive/__docs/_sidepj/istage/api &amp;&amp; denon start
-
 ## test api
 code -r ~/GoogleDrive/__docs/_sidepj/istage/api/restful_api.http
-
 # web
 code -r ~/GoogleDrive/__docs/_sidepj/istage/web/index.html
 cmd+L,cmd+O
