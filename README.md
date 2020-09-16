@@ -1,3 +1,5 @@
+🟥　Public Repo
+
 repo for markdown. pls refer to wiki.
 
 - 保存StackEdit published文档
